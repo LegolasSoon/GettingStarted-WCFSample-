@@ -1,0 +1,9 @@
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\bin\Debug\ApplicationInsights.config
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedLib.dll
+D:\WorkSpace\Personal\Projects\C#\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedLib.pdb
